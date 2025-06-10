@@ -41,6 +41,7 @@ It allows users to perform both basic and advanced mathematical operations with 
 
 🌐 Live Demo
 Click here to use Calc-79 online:
+>> https://akind01.github.io/Calc-79/
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
